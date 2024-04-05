@@ -6,7 +6,7 @@ Welcome to my simple yet engaging **Flutter Guess Number Game**! This game is a 
 
 Check out the live demo of the game on YouTube and get a feel of the UI and the gameplay dynamics. Trust me, it's an exciting way to see what Flutter can do!
 
-🎥 **YouTube Demo:** [Watch Here](https://youtu.be/mTg5L6271uc?si=lBV4R_rBd87QZTfC)
+[![Flutter Guess Number Game Demo](https://img.youtube.com/vi/mTg5L6271uc/0.jpg)](https://youtu.be/mTg5L6271uc?si=lBV4R_rBd87QZTfC)
 
 ## ✨ Features
 
