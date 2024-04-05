@@ -1,4 +1,3 @@
-```markdown
 # Flutter Guess Number Game 🎮
 
 Welcome to my simple yet engaging **Flutter Guess Number Game**! This game is a small project I undertook to practice and hone my Flutter skills. It embodies the basic yet crucial aspects of Flutter development, including state management, user input handling, and dynamic UI updates. This README provides you with all the information you need to get started, including how to run the game, contribute, and where to find more of my work.
@@ -71,6 +70,3 @@ If you have any questions or want to reach out to me for more interesting Flutte
 ---
 
 This project is a testament to my learning journey in Flutter, and I am excited to share it with you. Let's connect, learn, and grow together in this amazing Flutter community!
-```
-
-This README.md is crafted with a mix of informative sections and emojis to make it engaging and easy to read. You can adjust the GitHub repository link, license details, and contact information as needed.
