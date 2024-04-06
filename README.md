@@ -22,7 +22,7 @@ To run this game on your machine, follow these simple steps:
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/yourgithubusername/flutter-guess-number-game.git
+   git clone [https://github.com/borinmorm21/my_guess_number.git](https://github.com/borinmorm21/my_guess_number)
    ```
 
 2. **Navigate to the project directory**
